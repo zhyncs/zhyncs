@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I used to work at [Meituan](https://www.meituan.com/en-US/about-us), using [Tensorflow](https://github.com/NVIDIA/tensorflow), [TensorRT](https://github.com/NVIDIA/TensorRT) for CTR GPU Inference and [PyTorch](https://github.com/pytorch/pytorch) for LLM GPU Inference.
-- 💻 Open Source: Team Member at [LMSYS Org](https://lmsys.org/about/), working on [SGLang](https://github.com/sgl-project/sglang), and a committer for both [FlashInfer](https://github.com/flashinfer-ai/flashinfer) and [LMDeploy](https://github.com/internlm/lmdeploy).
-- 📫 How to reach me: me@zhyncs.com or [Telegram](https://t.me/zhyncs/)
-- 📄 Learn more about my work experience: [Linkedin](https://www.linkedin.com/in/zhyncs/)
+- 🔭 Lead Software Engineer at [Baseten](https://www.baseten.co/), focusing on model performance optimization
+- 💼 Previously at [Meituan](https://www.meituan.com/en-US/about-us), specialized in GPU inference using [TensorFlow](https://github.com/NVIDIA/tensorflow)/[TensorRT](https://github.com/NVIDIA/TensorRT) for CTR and [PyTorch](https://github.com/pytorch/pytorch) for LLMs. Earlier at [Baidu](https://en.wikipedia.org/wiki/Baidu), familiar with [bRPC](https://github.com/apache/brpc) and [Babylon](https://github.com/baidu/babylon)
+- 💻 Open Source: Team Member at [LMSYS Org](https://lmsys.org/about/), core developer of [SGLang](https://github.com/sgl-project/sglang), committer for [FlashInfer](https://github.com/flashinfer-ai/flashinfer) and [LMDeploy](https://github.com/internlm/lmdeploy)
+- 👀 Check out [my talk on SGLang](https://www.youtube.com/watch?v=XQylGyG7yp8) at [GPU MODE](https://github.com/gpu-mode/lectures/tree/main/lecture_035)
+- 📫 Contact: me@zhyncs.com | [Telegram](https://t.me/zhyncs/)
+- 📄 More: [LinkedIn](https://www.linkedin.com/in/zhyncs/) | [Homepage](https://zhyncs.com)
