@@ -6,4 +6,4 @@
 - 👀 Check out [my talk on SGLang](https://www.youtube.com/watch?v=XQylGyG7yp8) at [GPU MODE](https://github.com/gpu-mode/lectures/tree/main/lecture_035)
 - 📫 Contact: me@zhyncs.com | [Telegram](https://t.me/zhyncs/)
 - 📄 More: [LinkedIn](https://www.linkedin.com/in/zhyncs/) | [Homepage](https://zhyncs.com)
-- :raised_hands: The best way to reach me is through the [SGLang Slack](https://join.slack.com/t/sgl-fru7574/shared_invite/zt-2rtikx2pv-DUfPrhx2SaNAq~47YtV1XQ). We're seeking open-source enthusiasts and learners to help develop the [SGLang](https://github.com/sgl-project/sglang) project and community. **If you'd like to talk to me on Google Meet, you can schedule a time through my [Calendly](https://calendly.com/me-zhyncs/30min)**.
+- :raised_hands: The best way to reach me is through the [SGLang Slack](https://slack.sglang.ai/). We're seeking open-source enthusiasts and learners to help develop the [SGLang](https://github.com/sgl-project/sglang) project and community. **If you'd like to talk to me on Google Meet, you can schedule a time through my [Calendly](https://calendly.com/me-zhyncs/30min)**.
