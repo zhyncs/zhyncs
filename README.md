@@ -8,4 +8,4 @@
 - 📫 Contact: me@zhyncs.com | [Telegram](https://t.me/zhyncs/)
 - 📄 More: [LinkedIn](https://www.linkedin.com/in/zhyncs/) | [Homepage](https://zhyncs.com)
 - :raised_hands: The best way to contact me is via the [SGLang Slack](https://slack.sglang.ai/). We're looking for open-source enthusiasts and learners to help grow the [SGLang project](https://github.com/sgl-project/sglang) and community.
-- :coffee: If you want to chat on Google Meet, schedule a time through my Calendly. Please include **a brief self-introduction and your discussion topic** on [Calendly](https://calendly.com/me-zhyncs/30min). I will decide whether to proceed based on the circumstances. Thank you for understanding.
+- :coffee: I am currently based in San Francisco 🌁. If you're interested in connecting for an in-person coffee chat, feel free to schedule a time through my Calendly. Please include **a brief self-introduction and your discussion topic** on [Calendly](https://calendly.com/me-zhyncs/coffee-chat). I will decide whether to proceed based on the circumstances. Thank you for understanding.
