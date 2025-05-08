@@ -2,7 +2,7 @@
 
 - 🔭 Lead Software Engineer at [Baseten](https://www.baseten.co/), focusing on model performance optimization
 - 💼 Previously at [Meituan](https://www.meituan.com/en-US/about-us), specialized in GPU inference using [TensorFlow](https://github.com/NVIDIA/tensorflow)/[TensorRT](https://github.com/NVIDIA/TensorRT) for CTR and [PyTorch](https://github.com/pytorch/pytorch) for LLMs. Earlier at [Baidu](https://en.wikipedia.org/wiki/Baidu), familiar with [bRPC](https://github.com/apache/brpc) and [Babylon](https://github.com/baidu/babylon)
-- 💻 Open Source: Team Member at [LMSYS Org](https://lmsys.org/about/), core developer of [SGLang](https://github.com/sgl-project/sglang), committer for [FlashInfer](https://github.com/flashinfer-ai/flashinfer) and [LMDeploy](https://github.com/internlm/lmdeploy)
+- 💻 Open Source: Team Member at [LMSYS Org](https://lmsys.org/about/), Inference Lead for [SGLang](https://github.com/sgl-project/sglang), committer for [FlashInfer](https://github.com/flashinfer-ai/flashinfer) and [LMDeploy](https://github.com/internlm/lmdeploy)
 - 👀 Check out [my talk on SGLang](https://www.youtube.com/watch?v=XQylGyG7yp8) at [GPU MODE](https://github.com/gpu-mode/lectures/tree/main/lecture_035) or [CAMEL-AI Hackathon](https://gamma.app/docs/SGLang-v04-Optimization-6x6pml7351oy58r?mode=doc)
 - 🚀 DeepSeek V3 Related: [SGLang Day One Support](https://github.com/sgl-project/sglang/releases/tag/v0.4.1), [Latent Space Podcast](https://www.latent.space/p/baseten), [The New York Times First Article](https://www.nytimes.com/2025/01/23/technology/deepseek-china-ai-chips.html), [Second Article](https://www.nytimes.com/2025/01/28/business/deepseek-owner-china-ai.html)
 - 📫 Contact: me@zhyncs.com | [Telegram](https://t.me/zhyncs/)
